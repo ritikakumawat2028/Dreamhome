@@ -1,0 +1,58 @@
+{
+    "properties": [
+        {
+            "id": 1,
+            "title": "Modern Luxury Villa",
+            "description": "Stunning modern villa with panoramic views",
+            "price": 1250000,
+            "location": "Beverly Hills, CA",
+            "image": "https://images.unsplash.com/photo-1494526585095-c41746248156",
+            "details": {
+                "bedrooms": 4,
+                "bathrooms": 3.5,
+                "sqft": 3200,
+                "yearBuilt": 2020
+            },
+            "coordinates": {
+                "lat": 34.0736,
+                "lng": -118.4004
+            }
+        },
+        {
+            "id": 2,
+            "title": "Coastal Dream Home",
+            "description": "Beachfront property with private access",
+            "price": 2100000,
+            "location": "Malibu, CA",
+            "image": "https://images.unsplash.com/photo-1513584684374-8bab748fbf90",
+            "details": {
+                "bedrooms": 5,
+                "bathrooms": 4,
+                "sqft": 4100,
+                "yearBuilt": 2019
+            },
+            "coordinates": {
+                "lat": 34.0259,
+                "lng": -118.7798
+            }
+        },
+        {
+            "id": 3,
+            "title": "Urban Penthouse",
+            "description": "Luxury penthouse in downtown",
+            "price": 890000,
+            "location": "San Francisco, CA",
+            "image": "https://images.unsplash.com/photo-1483366774565-c783b9f70e2c",
+            "details": {
+                "bedrooms": 3,
+                "bathrooms": 2,
+                "sqft": 1800,
+                "yearBuilt": 2018
+            },
+            "coordinates": {
+                "lat": 37.7749,
+                "lng": -122.4194
+            }
+        }
+    ]
+}

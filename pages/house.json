@@ -1,0 +1,36 @@
+[
+    {
+        "id": 1,
+        "image": "..//images/1.jpeg",
+        "description": "A beautiful 3-bedroom house with garden and a swiming pool peaceful environment . 24hrs water and electricity , less populated area.",
+        "additionals":["<br>Experience ultimate luxury in this stunning 3-bedroom villa, perfectly designed for modern living. Nestled in a prime location, this home offers elegance, comfort, and privacy",
+        "<br>✨ Key Features:<br>🏡 Spacious Living Area – High ceilings, large windows, and a seamless indoor-outdoor flow",
+       "<br> 🛏 3 Elegant Bedrooms – Each room is a retreat with built-in wardrobes and serene views",
+        "<br>🍽 Gourmet Kitchen – Featuring premium countertops, modern appliances, and custom cabinetry",
+        "<br>🛁 Sophisticated Bathrooms – Designed with top-tier finishes and spa-inspired showers",
+        "<br>🌊 Private Pool & Garden – Enjoy a resort-like experience in your backyard oasis",
+        "<br>🚗 Secure Parking – A private garage with ample storage space",
+        "<br>📍 Prime Location – Close to top-rated schools, shopping, and entertainment",
+
+        "<br>A perfect blend of luxury and tranquility, this villa is waiting for you! Contact us today for a private viewing."],
+        "price": 250000,
+        "state": "Rajasthan",
+        "city": "Ajmer"
+    },
+    {
+        "id": 2,
+        "image": "..//images/2.jpeg",
+        "description": "Modern apartment in the city center.",
+        "price": 300000,
+        "state": "Gujarat",
+        "city": "Surat"
+    },
+    {
+        "id": 3,
+        "image": "..//images/3.jpeg",
+        "description": "Spacious villa with a pool.",
+        "price": 500000,
+        "state": "Punjab",
+        "city": "Amritsar"
+    }
+]
